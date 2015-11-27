@@ -1,0 +1,6 @@
+.vagrant/
+
+data/total.txt
+
+*.swp
+*~
