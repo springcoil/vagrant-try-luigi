@@ -1,6 +1,6 @@
 # Try Spotify's Luigi with Vagrant!
 
-This repository is meant to be used with the [Try Luigi!](http://datapipelinearchitect.com/try-luigi) article published on [Data Pipeline Architect](http://datapipelinearchitect.com). Consult it for the motivation and detailed instructions.
+This repository is meant to be used with the [Try Luigi with Vagrant!](http://datapipelinearchitect.com/try-luigi) article published on [Data Pipeline Architect](http://datapipelinearchitect.com). Consult it for the motivation and detailed instructions.
 
 ## The Dummy Data
 
