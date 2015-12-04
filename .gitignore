@@ -1,6 +1,7 @@
 .vagrant/
 
 data/total.txt
+data/same_purchases.csv
 
 *.swp
 *~
